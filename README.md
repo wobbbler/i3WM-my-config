@@ -1,7 +1,7 @@
 # i3WM-my-config
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wobbbler/my-i3wm-config/main/rice.png" alt="My i3 Desktop" width="800">
+  <img src="https://raw.githubusercontent.com/wobbbler/i3WM-my-config/main/rice.png" alt="My i3 Desktop" width="800">
   
   # 🖥️ My i3WM Configuration
 
