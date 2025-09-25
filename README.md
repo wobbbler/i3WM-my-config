@@ -15,7 +15,7 @@
 
 ### 📦 Clone Repository
 ```bash
-git clone https://github.com/wobbbler/my-i3wm-config.git ~/all-configs
+git clone https://github.com/wobbbler/i3WM-my-config.git ~/all-configs
 cd ~/all-configs
 ```
 
